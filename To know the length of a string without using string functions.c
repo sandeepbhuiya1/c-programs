@@ -11,7 +11,7 @@ int main()
     {
         len++;
     }
-    printf("the length of the string is %d:",len);
+    printf("the length of the string is :%d",len);
     getch();
 
     return 0;
